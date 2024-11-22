@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ASUS/Documents/DP-PRAKTIKUM2-%7B11S23005%7D/PBO%20Praktikum/PBO%20PROYEK/projek_PBO/src/view/RegisterView.java</file>
-            <file>file:/C:/Users/ASUS/Documents/DP-PRAKTIKUM2-%7B11S23005%7D/PBO%20Praktikum/PBO%20PROYEK/projek_PBO/src/view/LoginView.java</file>
+            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/repository/JobsRepository.java</file>
+            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/view/login.java</file>
+            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/repository/UserRepository.java</file>
+            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/repository/IJobsRepository.java</file>
+            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/entity/Jobs.java</file>
+            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/view/regis.java</file>
+            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/model/ModelJobs.java</file>
         </group>
     </open-files>
 </project-private>
