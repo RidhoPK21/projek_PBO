@@ -3,13 +3,22 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/repository/JobsRepository.java</file>
-            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/view/login.java</file>
-            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/repository/UserRepository.java</file>
-            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/repository/IJobsRepository.java</file>
-            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/entity/Jobs.java</file>
-            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/view/regis.java</file>
-            <file>file:/C:/Users/firman_hutasoit/Documents/PBO/projek/1/projek_PBO/src/model/ModelJobs.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/util/DBUtil.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/util/ToolsUtil.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/mainProject/AppMainProject.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/view/DashborAdmin.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/view/RegisterView.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/view/Dasboard.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/repository/UserRepository.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/assets/search-x24.png</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/assets/visible%20password.jpg</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/repository/IJobsRepository.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/entity/Jobs.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/repository/JobsRepository.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/view/UI.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/view/LoginView.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/model/ModelJobs.java</file>
+            <file>file:/C:/Users/Ridho/OneDrive/Dokumen/projek%20pbo/2/projek_PBO/src/model/ModelUser.java</file>
         </group>
     </open-files>
 </project-private>
